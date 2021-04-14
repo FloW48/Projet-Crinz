@@ -3,87 +3,57 @@
     "m_SelectedPackage": {
         "deviceId": "MQH4C16B01002889",
         "name": "com.RekstedStudio.com.projet.crinz",
-        "processId": 10339,
+        "processId": 18604,
         "exited": false
     },
     "m_SelectedPriority": 0,
     "m_KnownPackagesForSerialization": [
         {
             "deviceId": "MQH4C16B01002889",
-            "name": "com.huawei.android.launcher",
-            "processId": 2460,
-            "exited": false
-        },
-        {
-            "deviceId": "MQH4C16B01002889",
-            "name": "com.DefaultCompany.com.unity.template.mobile2D",
-            "processId": 13069,
-            "exited": true
-        },
-        {
-            "deviceId": "MQH4C16B01002889",
-            "name": "com.RekstedStudio.com.projet.crinz",
-            "processId": 23729,
-            "exited": true
-        },
-        {
-            "deviceId": "MQH4C16B01002889",
-            "name": "com.RekstedStudio.com.projet.crinz",
-            "processId": 28996,
-            "exited": true
-        },
-        {
-            "deviceId": "MQH4C16B01002889",
-            "name": "com.RekstedStudio.com.projet.crinz",
-            "processId": 31498,
-            "exited": true
-        },
-        {
-            "deviceId": "MQH4C16B01002889",
-            "name": "com.RekstedStudio.com.projet.crinz",
-            "processId": 10300,
-            "exited": true
-        },
-        {
-            "deviceId": "MQH4C16B01002889",
-            "name": "com.RekstedStudio.com.projet.crinz",
-            "processId": 7347,
-            "exited": false
-        },
-        {
-            "deviceId": "MQH4C16B01002889",
-            "name": "com.RekstedStudio.com.projet.crinz",
-            "processId": 11340,
-            "exited": false
-        },
-        {
-            "deviceId": "MQH4C16B01002889",
             "name": "com.RekstedStudio.com.projet.crinz",
             "processId": 15303,
-            "exited": false
+            "exited": true
         },
         {
             "deviceId": "MQH4C16B01002889",
             "name": "com.RekstedStudio.com.projet.crinz",
             "processId": 17665,
-            "exited": false
+            "exited": true
         },
         {
             "deviceId": "MQH4C16B01002889",
             "name": "com.RekstedStudio.com.projet.crinz",
             "processId": 31054,
-            "exited": false
+            "exited": true
         },
         {
             "deviceId": "MQH4C16B01002889",
             "name": "com.RekstedStudio.com.projet.crinz",
             "processId": 2577,
-            "exited": false
+            "exited": true
         },
         {
             "deviceId": "MQH4C16B01002889",
             "name": "com.RekstedStudio.com.projet.crinz",
             "processId": 10339,
+            "exited": true
+        },
+        {
+            "deviceId": "MQH4C16B01002889",
+            "name": "com.huawei.android.launcher",
+            "processId": 2377,
+            "exited": false
+        },
+        {
+            "deviceId": "MQH4C16B01002889",
+            "name": "com.RekstedStudio.com.projet.crinz",
+            "processId": 13891,
+            "exited": false
+        },
+        {
+            "deviceId": "MQH4C16B01002889",
+            "name": "com.RekstedStudio.com.projet.crinz",
+            "processId": 18604,
             "exited": false
         }
     ],

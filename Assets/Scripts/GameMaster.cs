@@ -37,6 +37,7 @@ public class GameMaster : MonoBehaviour
     public static Text wonTwoPlayers;
     public static string winner;
     public static GameObject progressBar;
+    private int tutorialStep = 0;
     // Start is called before the first frame update
     void Start()
     {
@@ -99,28 +100,29 @@ public class GameMaster : MonoBehaviour
         }
     }
 
-    public void toggleTutorial()
+    public void advanceTutorial()
     {
-        if (tutorialShow)
-        {
-            panelTutorialTwo.SetActive(false);
-            panelTutorial.SetActive(false);
-            UIMenu.SetActive(true);
-            tutorialShow = !tutorialShow;
-        }
-        else
+        if (tutorialStep == 0)
         {
             panelTutorial.SetActive(true);
             panelTutorialOne.SetActive(true);
             UIMenu.SetActive(false);
             tutorialShow = !tutorialShow;
+            tutorialStep += 1;
         }
-    }
-
-    public void showTutorialTwoPlayers()
-    {
-        panelTutorialOne.SetActive(false);
-        panelTutorialTwo.SetActive(true);
+        else if(tutorialStep == 1)
+        {
+            panelTutorialOne.SetActive(false);
+            panelTutorialTwo.SetActive(true);
+            tutorialStep += 1;
+        }
+        else
+        {
+            panelTutorialTwo.SetActive(false);
+            panelTutorial.SetActive(false);
+            UIMenu.SetActive(true);
+            tutorialStep = 0;
+        }
     }
 
     public void toggleStats()
