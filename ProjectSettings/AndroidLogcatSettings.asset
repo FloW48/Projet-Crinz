@@ -1,0 +1,143 @@
+{
+    "m_SelectedDeviceId": "MQH4C16B01002889",
+    "m_SelectedPackage": {
+        "deviceId": "MQH4C16B01002889",
+        "name": "com.RekstedStudio.com.projet.crinz",
+        "processId": 10339,
+        "exited": false
+    },
+    "m_SelectedPriority": 0,
+    "m_KnownPackagesForSerialization": [
+        {
+            "deviceId": "MQH4C16B01002889",
+            "name": "com.huawei.android.launcher",
+            "processId": 2460,
+            "exited": false
+        },
+        {
+            "deviceId": "MQH4C16B01002889",
+            "name": "com.DefaultCompany.com.unity.template.mobile2D",
+            "processId": 13069,
+            "exited": true
+        },
+        {
+            "deviceId": "MQH4C16B01002889",
+            "name": "com.RekstedStudio.com.projet.crinz",
+            "processId": 23729,
+            "exited": true
+        },
+        {
+            "deviceId": "MQH4C16B01002889",
+            "name": "com.RekstedStudio.com.projet.crinz",
+            "processId": 28996,
+            "exited": true
+        },
+        {
+            "deviceId": "MQH4C16B01002889",
+            "name": "com.RekstedStudio.com.projet.crinz",
+            "processId": 31498,
+            "exited": true
+        },
+        {
+            "deviceId": "MQH4C16B01002889",
+            "name": "com.RekstedStudio.com.projet.crinz",
+            "processId": 10300,
+            "exited": true
+        },
+        {
+            "deviceId": "MQH4C16B01002889",
+            "name": "com.RekstedStudio.com.projet.crinz",
+            "processId": 7347,
+            "exited": false
+        },
+        {
+            "deviceId": "MQH4C16B01002889",
+            "name": "com.RekstedStudio.com.projet.crinz",
+            "processId": 11340,
+            "exited": false
+        },
+        {
+            "deviceId": "MQH4C16B01002889",
+            "name": "com.RekstedStudio.com.projet.crinz",
+            "processId": 15303,
+            "exited": false
+        },
+        {
+            "deviceId": "MQH4C16B01002889",
+            "name": "com.RekstedStudio.com.projet.crinz",
+            "processId": 17665,
+            "exited": false
+        },
+        {
+            "deviceId": "MQH4C16B01002889",
+            "name": "com.RekstedStudio.com.projet.crinz",
+            "processId": 31054,
+            "exited": false
+        },
+        {
+            "deviceId": "MQH4C16B01002889",
+            "name": "com.RekstedStudio.com.projet.crinz",
+            "processId": 2577,
+            "exited": false
+        },
+        {
+            "deviceId": "MQH4C16B01002889",
+            "name": "com.RekstedStudio.com.projet.crinz",
+            "processId": 10339,
+            "exited": false
+        }
+    ],
+    "m_Tags": {
+        "m_Entries": [
+            {
+                "m_Name": "Filter by all listed tags",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "No Filter",
+                "m_Selected": true
+            },
+            {
+                "m_Name": "",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "Tag Control...",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "Unity",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "CRASH",
+                "m_Selected": false
+            }
+        ]
+    },
+    "m_MemoryViewerState": {
+        "MemoryWindowHeight": 300.0,
+        "MemoryWindowWidth": 170.0,
+        "MemoryTypeEnabled": [
+            false,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+        ],
+        "MemoryGroup": 0,
+        "Behavior": 1
+    },
+    "m_Filter": "",
+    "m_FilterIsRegularExpression": false,
+    "m_SymbolPaths": []
+}
